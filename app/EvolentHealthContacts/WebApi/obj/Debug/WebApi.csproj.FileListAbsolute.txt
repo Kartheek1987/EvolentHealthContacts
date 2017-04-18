@@ -1,0 +1,98 @@
+E:\Interview Code Sample\EvolentHealthContacts\WebApi\bin\ApplicationInsights.config
+E:\Interview Code Sample\EvolentHealthContacts\WebApi\bin\roslyn\csc.exe
+E:\Interview Code Sample\EvolentHealthContacts\WebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Interview Code Sample\EvolentHealthContacts\WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Interview Code Sample\EvolentHealthContacts\WebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Interview Code Sample\EvolentHealthContacts\WebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Interview Code Sample\EvolentHealthContacts\WebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Interview Code Sample\EvolentHealthContacts\WebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Interview Code Sample\EvolentHealthContacts\WebApi\bin\roslyn\System.Collections.Immutable.dll
+E:\Interview Code Sample\EvolentHealthContacts\WebApi\bin\roslyn\System.Reflection.Metadata.dll
+E:\Interview Code Sample\EvolentHealthContacts\WebApi\bin\roslyn\vbc.exe
+E:\Interview Code Sample\EvolentHealthContacts\WebApi\bin\roslyn\VBCSCompiler.exe
+E:\Interview Code Sample\EvolentHealthContacts\WebApi\bin\roslyn\VBCSCompiler.exe.config
+E:\Interview Code Sample\EvolentHealthContacts\WebApi\bin\WebApi.dll.config
+E:\Interview Code Sample\EvolentHealthContacts\WebApi\bin\WebApi.dll
+E:\Interview Code Sample\EvolentHealthContacts\WebApi\bin\WebApi.pdb
+E:\Interview Code Sample\EvolentHealthContacts\WebApi\bin\BusinessLayer.dll
+E:\Interview Code Sample\EvolentHealthContacts\WebApi\bin\DataAccessLayer.dll
+E:\Interview Code Sample\EvolentHealthContacts\WebApi\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Interview Code Sample\EvolentHealthContacts\WebApi\bin\Microsoft.AI.DependencyCollector.dll
+E:\Interview Code Sample\EvolentHealthContacts\WebApi\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Interview Code Sample\EvolentHealthContacts\WebApi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Interview Code Sample\EvolentHealthContacts\WebApi\bin\Microsoft.AI.Web.dll
+E:\Interview Code Sample\EvolentHealthContacts\WebApi\bin\Microsoft.AI.WindowsServer.dll
+E:\Interview Code Sample\EvolentHealthContacts\WebApi\bin\Microsoft.ApplicationInsights.dll
+E:\Interview Code Sample\EvolentHealthContacts\WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Interview Code Sample\EvolentHealthContacts\WebApi\bin\Newtonsoft.Json.dll
+E:\Interview Code Sample\EvolentHealthContacts\WebApi\bin\System.Net.Http.Formatting.dll
+E:\Interview Code Sample\EvolentHealthContacts\WebApi\bin\System.Web.Http.dll
+E:\Interview Code Sample\EvolentHealthContacts\WebApi\bin\System.Web.Http.WebHost.dll
+E:\Interview Code Sample\EvolentHealthContacts\WebApi\bin\EntityFramework.dll
+E:\Interview Code Sample\EvolentHealthContacts\WebApi\bin\BusinessLayer.pdb
+E:\Interview Code Sample\EvolentHealthContacts\WebApi\bin\DataAccessLayer.pdb
+E:\Interview Code Sample\EvolentHealthContacts\WebApi\bin\Microsoft.AI.DependencyCollector.xml
+E:\Interview Code Sample\EvolentHealthContacts\WebApi\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Interview Code Sample\EvolentHealthContacts\WebApi\bin\Microsoft.AI.Web.xml
+E:\Interview Code Sample\EvolentHealthContacts\WebApi\bin\Microsoft.AI.WindowsServer.xml
+E:\Interview Code Sample\EvolentHealthContacts\WebApi\bin\Microsoft.ApplicationInsights.xml
+E:\Interview Code Sample\EvolentHealthContacts\WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Interview Code Sample\EvolentHealthContacts\WebApi\bin\Newtonsoft.Json.xml
+E:\Interview Code Sample\EvolentHealthContacts\WebApi\bin\System.Net.Http.Formatting.xml
+E:\Interview Code Sample\EvolentHealthContacts\WebApi\bin\System.Web.Http.xml
+E:\Interview Code Sample\EvolentHealthContacts\WebApi\bin\System.Web.Http.WebHost.xml
+E:\Interview Code Sample\EvolentHealthContacts\WebApi\bin\EntityFramework.xml
+E:\Interview Code Sample\EvolentHealthContacts\WebApi\obj\Debug\WebApi.csprojResolveAssemblyReference.cache
+E:\Interview Code Sample\EvolentHealthContacts\WebApi\obj\Debug\WebApi.dll
+E:\Interview Code Sample\EvolentHealthContacts\WebApi\obj\Debug\WebApi.pdb
+E:\Interview Code Sample\EvolentHealthContacts\WebApi\bin\EntityFramework.SqlServer.dll
+E:\Interview Code Sample\EvolentHealthContacts\WebApi\bin\EntityFramework.SqlServer.xml
+E:\git-workspace\EvolentHealthContacts\WebApi\bin\ApplicationInsights.config
+E:\git-workspace\EvolentHealthContacts\WebApi\bin\roslyn\csc.exe
+E:\git-workspace\EvolentHealthContacts\WebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\git-workspace\EvolentHealthContacts\WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\git-workspace\EvolentHealthContacts\WebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\git-workspace\EvolentHealthContacts\WebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\git-workspace\EvolentHealthContacts\WebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\git-workspace\EvolentHealthContacts\WebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\git-workspace\EvolentHealthContacts\WebApi\bin\roslyn\System.Collections.Immutable.dll
+E:\git-workspace\EvolentHealthContacts\WebApi\bin\roslyn\System.Reflection.Metadata.dll
+E:\git-workspace\EvolentHealthContacts\WebApi\bin\roslyn\vbc.exe
+E:\git-workspace\EvolentHealthContacts\WebApi\bin\roslyn\VBCSCompiler.exe
+E:\git-workspace\EvolentHealthContacts\WebApi\bin\roslyn\VBCSCompiler.exe.config
+E:\git-workspace\EvolentHealthContacts\WebApi\bin\WebApi.dll.config
+E:\git-workspace\EvolentHealthContacts\WebApi\bin\WebApi.dll
+E:\git-workspace\EvolentHealthContacts\WebApi\bin\WebApi.pdb
+E:\git-workspace\EvolentHealthContacts\WebApi\bin\BusinessLayer.dll
+E:\git-workspace\EvolentHealthContacts\WebApi\bin\DataAccessLayer.dll
+E:\git-workspace\EvolentHealthContacts\WebApi\bin\EntityFramework.dll
+E:\git-workspace\EvolentHealthContacts\WebApi\bin\EntityFramework.SqlServer.dll
+E:\git-workspace\EvolentHealthContacts\WebApi\bin\Microsoft.AI.Agent.Intercept.dll
+E:\git-workspace\EvolentHealthContacts\WebApi\bin\Microsoft.AI.DependencyCollector.dll
+E:\git-workspace\EvolentHealthContacts\WebApi\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\git-workspace\EvolentHealthContacts\WebApi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\git-workspace\EvolentHealthContacts\WebApi\bin\Microsoft.AI.Web.dll
+E:\git-workspace\EvolentHealthContacts\WebApi\bin\Microsoft.AI.WindowsServer.dll
+E:\git-workspace\EvolentHealthContacts\WebApi\bin\Microsoft.ApplicationInsights.dll
+E:\git-workspace\EvolentHealthContacts\WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\git-workspace\EvolentHealthContacts\WebApi\bin\Newtonsoft.Json.dll
+E:\git-workspace\EvolentHealthContacts\WebApi\bin\System.Net.Http.Formatting.dll
+E:\git-workspace\EvolentHealthContacts\WebApi\bin\System.Web.Http.dll
+E:\git-workspace\EvolentHealthContacts\WebApi\bin\System.Web.Http.WebHost.dll
+E:\git-workspace\EvolentHealthContacts\WebApi\bin\BusinessLayer.pdb
+E:\git-workspace\EvolentHealthContacts\WebApi\bin\DataAccessLayer.pdb
+E:\git-workspace\EvolentHealthContacts\WebApi\bin\EntityFramework.xml
+E:\git-workspace\EvolentHealthContacts\WebApi\bin\EntityFramework.SqlServer.xml
+E:\git-workspace\EvolentHealthContacts\WebApi\bin\Microsoft.AI.DependencyCollector.xml
+E:\git-workspace\EvolentHealthContacts\WebApi\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\git-workspace\EvolentHealthContacts\WebApi\bin\Microsoft.AI.Web.xml
+E:\git-workspace\EvolentHealthContacts\WebApi\bin\Microsoft.AI.WindowsServer.xml
+E:\git-workspace\EvolentHealthContacts\WebApi\bin\Microsoft.ApplicationInsights.xml
+E:\git-workspace\EvolentHealthContacts\WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\git-workspace\EvolentHealthContacts\WebApi\bin\Newtonsoft.Json.xml
+E:\git-workspace\EvolentHealthContacts\WebApi\bin\System.Net.Http.Formatting.xml
+E:\git-workspace\EvolentHealthContacts\WebApi\bin\System.Web.Http.xml
+E:\git-workspace\EvolentHealthContacts\WebApi\bin\System.Web.Http.WebHost.xml
+E:\git-workspace\EvolentHealthContacts\WebApi\obj\Debug\WebApi.csprojResolveAssemblyReference.cache
+E:\git-workspace\EvolentHealthContacts\WebApi\obj\Debug\WebApi.dll
+E:\git-workspace\EvolentHealthContacts\WebApi\obj\Debug\WebApi.pdb

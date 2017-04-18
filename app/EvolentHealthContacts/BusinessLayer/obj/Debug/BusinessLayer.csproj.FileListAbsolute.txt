@@ -1,0 +1,24 @@
+E:\Interview Code Sample\EvolentHealthContacts\BusinessLayer\bin\Debug\BusinessLayer.dll.config
+E:\Interview Code Sample\EvolentHealthContacts\BusinessLayer\bin\Debug\BusinessLayer.dll
+E:\Interview Code Sample\EvolentHealthContacts\BusinessLayer\bin\Debug\BusinessLayer.pdb
+E:\Interview Code Sample\EvolentHealthContacts\BusinessLayer\bin\Debug\DataAccessLayer.dll
+E:\Interview Code Sample\EvolentHealthContacts\BusinessLayer\bin\Debug\EntityFramework.dll
+E:\Interview Code Sample\EvolentHealthContacts\BusinessLayer\bin\Debug\EntityFramework.SqlServer.dll
+E:\Interview Code Sample\EvolentHealthContacts\BusinessLayer\bin\Debug\DataAccessLayer.pdb
+E:\Interview Code Sample\EvolentHealthContacts\BusinessLayer\bin\Debug\EntityFramework.xml
+E:\Interview Code Sample\EvolentHealthContacts\BusinessLayer\bin\Debug\EntityFramework.SqlServer.xml
+E:\Interview Code Sample\EvolentHealthContacts\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+E:\Interview Code Sample\EvolentHealthContacts\BusinessLayer\obj\Debug\BusinessLayer.dll
+E:\Interview Code Sample\EvolentHealthContacts\BusinessLayer\obj\Debug\BusinessLayer.pdb
+E:\git-workspace\EvolentHealthContacts\BusinessLayer\bin\Debug\BusinessLayer.dll.config
+E:\git-workspace\EvolentHealthContacts\BusinessLayer\bin\Debug\BusinessLayer.dll
+E:\git-workspace\EvolentHealthContacts\BusinessLayer\bin\Debug\BusinessLayer.pdb
+E:\git-workspace\EvolentHealthContacts\BusinessLayer\bin\Debug\DataAccessLayer.dll
+E:\git-workspace\EvolentHealthContacts\BusinessLayer\bin\Debug\EntityFramework.dll
+E:\git-workspace\EvolentHealthContacts\BusinessLayer\bin\Debug\EntityFramework.SqlServer.dll
+E:\git-workspace\EvolentHealthContacts\BusinessLayer\bin\Debug\DataAccessLayer.pdb
+E:\git-workspace\EvolentHealthContacts\BusinessLayer\bin\Debug\EntityFramework.xml
+E:\git-workspace\EvolentHealthContacts\BusinessLayer\bin\Debug\EntityFramework.SqlServer.xml
+E:\git-workspace\EvolentHealthContacts\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+E:\git-workspace\EvolentHealthContacts\BusinessLayer\obj\Debug\BusinessLayer.dll
+E:\git-workspace\EvolentHealthContacts\BusinessLayer\obj\Debug\BusinessLayer.pdb
