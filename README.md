@@ -4,9 +4,9 @@
 EvolentHealthContacts Project maintains contacts information.
 
 ## Software Requirements
-.Net Framework 4.5.2
-IIS
-SQL Server 2012
+1. .Net Framework 4.5.2
+2. IIS
+3. SQL Server 2012
 
 ## Instructions
 1. Pull source code from Github.
@@ -19,9 +19,9 @@ SQL Server 2012
 	for delete use same link with DELETE Http request
 
 ## Architechture
-DataAccessLayer:	This layer is responsible to perform CRUD operations.
-BusinessLayer:		This layer is responsible to enforce business operations on data entities.
-WebAPI:				This layer is responsible to get a WebApi request and contact other layers to process the request.
+1. DataAccessLayer:	This layer is responsible to perform CRUD operations.
+2. BusinessLayer:		This layer is responsible to enforce business operations on data entities.
+3. WebAPI:				This layer is responsible to get a WebApi request and contact other layers to process the request.
 
 
 
